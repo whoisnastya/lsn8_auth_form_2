@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://DameliAmangeldiyeva:<password>@cluster0.wunjk7r.mongodb.net/test",
+  "secretKey": "mern-secret-key"
+}
